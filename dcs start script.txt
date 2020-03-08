@@ -1,0 +1,1 @@
+Start-DscConfiguration -Path .\Bmoos -Wait -Verbose
